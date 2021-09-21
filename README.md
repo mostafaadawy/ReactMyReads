@@ -31,12 +31,12 @@ MyReads App is simple web site for practicing react js, it is simply act as clas
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#what-is-new">What is New</a></li>   
     <li><a href="#Challenges">Challenges</a></li>
     <li><a href="#useful-site">Useful Site</a></li>
     <li><a href="#testing-using-npm-test">Testing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -92,10 +92,8 @@ This is an example of how to list things you need to use the software and how to
   npm install --save prop-types
   npm start
   ```
-<!-- CONTRIBUTING -->
-## Contributing
 
-### What was new for me
+### What is New
 
 importing file includes separate method which have separate export should be included as follows
 import * as import * as BooksAPI from './BooksAPI'
@@ -122,6 +120,14 @@ I used this external tools to get the right responce and to read the returned js
 
 
 
+
+## Testing using npm test
+```sh
+  npm test
+  ```
+
+![image](https://user-images.githubusercontent.com/43582900/134261011-09fb2c8d-b87d-477d-881a-60d7311e25d7.png)
+
 <!-- LICENSE -->
 ## License
 
@@ -135,12 +141,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 mostafa_adawy[@ymail.com](https://twitter.com/twitter_handle) - email
 
 Project Link: [https://github.com/udacity/reactnd-project-myreads-starter.git](https://github.com/udacity/reactnd-project-myreads-starter.git)
-
-## Testing using npm test
-```sh
-  npm test
-  ```
-
-![image](https://user-images.githubusercontent.com/43582900/134261011-09fb2c8d-b87d-477d-881a-60d7311e25d7.png)
-
 
