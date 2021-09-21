@@ -34,6 +34,7 @@ MyReads App is simple web site for practicing react js, it is simply act as clas
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
+    <li><a href="#Testing using npm test">Testing</a></li>
   </ol>
 </details>
 
@@ -137,6 +138,7 @@ Project Link: [https://github.com/udacity/reactnd-project-myreads-starter.git](h
 ```sh
   npm test
   ```
+  <div alig=center>
 ![image](https://user-images.githubusercontent.com/43582900/134261011-09fb2c8d-b87d-477d-881a-60d7311e25d7.png)
-
+</div>
 
