@@ -133,5 +133,10 @@ mostafa_adawy[@ymail.com](https://twitter.com/twitter_handle) - email
 
 Project Link: [https://github.com/udacity/reactnd-project-myreads-starter.git](https://github.com/udacity/reactnd-project-myreads-starter.git)
 
+## Testing using npm test
+```sh
+  npm test
+  ```
+![image](https://user-images.githubusercontent.com/43582900/134261011-09fb2c8d-b87d-477d-881a-60d7311e25d7.png)
 
 
