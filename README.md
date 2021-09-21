@@ -62,12 +62,14 @@ route is done using { Route } instead of using short-circuit environment
 ## Getting Started
 
 implementation according to Think React https://reactjs.org/docs/thinking-in-react.html where all next issues are followed
-1-Start With learning Mock-digital draw and design https://app.moqups.com/
-2-Break The UI Into A Component Hierarchy
-3-Build A Static Version in React
-4-Identify The Minimal (but complete) Representation Of UI State
-5-Identify Where Your State Should Live
-6-Add Inverse Data Flow
+<ul>
+    <li> Start With learning Mock-digital draw and design https://app.moqups.com/
+    <li> Break The UI Into A Component Hierarchy
+    <li> Build A Static Version in React
+    <li> Identify The Minimal (but complete) Representation Of UI State
+    <li> Identify Where Your State Should Live
+    <li> Add Inverse Data Flow 
+</ul>
 
 ### Prerequisites
 
