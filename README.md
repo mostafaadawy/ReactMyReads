@@ -34,8 +34,8 @@ MyReads App is simple web site for practicing react js, it is simply act as clas
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#useful-external-helping -site">Useful Site</a></li>
+    <li><a href="#Challenges">Challenges</a></li>
+    <li><a href="#useful-site">Useful Site</a></li>
     <li><a href="#testing-using-npm-test">Testing</a></li>
   </ol>
 </details>
@@ -102,13 +102,13 @@ import * as import * as BooksAPI from './BooksAPI'
 
 that select change onChange should be handled from its parent components and exactly i can use function handler to point to the function from parent to child as from child to parent  so it can be called through four generations for example while it can be handled in between there is no condition to be handled from parent only
 
-### Challenges and pros i faced
+### Challenges
 i faced an error that differs from chrome browser to Firefox browser where in chrome the error message was cant read from undefined object while in firefox the error message was this.state is undefined
 I solved this using runtime function not normal function i.e. functionname=argument=>{function body} instead of functioname(argument){}} where runtime can access local variable according to its scope and it is auto triggered function
 
 second challenge was butting tick "right" symbol infornt of option but i just add it as string which i think it is still need stylling for for the project main issue i discard this
 
-### useful external helping  site or apps that i used in debuging
+### Useful Sites
 `https://www.postman.com/`
 `https://codebeautify.org/jsonviewer`
 I used this external tools to get the right responce and to read the returned json to defined how to deal with its paramenters 
@@ -140,7 +140,7 @@ Project Link: [https://github.com/udacity/reactnd-project-myreads-starter.git](h
 ```sh
   npm test
   ```
-  <p align="center">
+
 ![image](https://user-images.githubusercontent.com/43582900/134261011-09fb2c8d-b87d-477d-881a-60d7311e25d7.png)
-</p>
+
 
