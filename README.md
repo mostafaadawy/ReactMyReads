@@ -83,7 +83,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone [https://github.com/mostafaadawy/ReactMyReads.git]
+   git clone https://github.com/mostafaadawy/ReactMyReads.git
    ```
 2. Install NPM packages
   ```sh
@@ -140,5 +140,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 mostafa_adawy[@ymail.com](https://twitter.com/twitter_handle) - email
 
-Project Link: [https://github.com/mostafaadawy/ReactMyReads.git]
+Project Link: https://github.com/mostafaadawy/ReactMyReads.git
 
