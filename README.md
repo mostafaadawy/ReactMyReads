@@ -11,7 +11,10 @@
     
 </p>
 
-https://user-images.githubusercontent.com/43582900/134266405-a5894dc6-a836-45bc-b116-7ed152e29271.gif
+
+
+https://user-images.githubusercontent.com/43582900/134330053-ca1156cb-a000-416d-9b2d-c099b014bd13.mp4
+
 
 MyReads App is simple web site for practicing react js, it is simply act as classifier that can facilitate for reading lovers to plan their reading and this is done through designing shelfs that we can easily remove , move and add to it , the main objective of this project is to practice what we learn in react fundamentals on real application
 
