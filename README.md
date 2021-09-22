@@ -10,7 +10,7 @@
     project_description
     
 </p>
--![MyReedsReact](https://user-images.githubusercontent.com/43582900/134265134-7cfdb3f8-ff30-470e-a18d-dd55f3f84229.gif)
+-![image](https://user-images.githubusercontent.com/43582900/134265134-7cfdb3f8-ff30-470e-a18d-dd55f3f84229.gif)
 
 +<img src="/art/sample.gif?raw=true" width="200px">
 
