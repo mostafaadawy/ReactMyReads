@@ -113,8 +113,8 @@ second challenge was butting tick "right" symbol infornt of option but i just ad
 ### Useful Sites
 <ul>
   <li> `https://www.postman.com/`
-  </li> `https://codebeautify.org/jsonviewer`
-  <li>
+  </li>
+  <li> `https://codebeautify.org/jsonviewer`
   </li>
 </ul>
 
